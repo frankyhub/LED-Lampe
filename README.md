@@ -39,6 +39,10 @@ Diese Anleitung beschreibt den Aufbau einer LED-Lampe. Das Gehäuse wird aus 3mm
 
 ## Aufbau
 
+### xtool Lasercutter Datei
+
+![Bild](/pic/xtool.png)
+
 ### Grundplatte mit LED-Stripe
 
 ![Bild](/pic/LED-Stripe.png)
