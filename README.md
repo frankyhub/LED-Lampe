@@ -18,7 +18,7 @@
 ## Story
 Diese Anleitung beschreibt den Aufbau einer LED-Lampe. Das Gehäuse wird aus 3mm Sperrholz gelasert. Im inneren befindet sich ein 50cm langer LED-Streifen der mit einem LED-Dimmer angesteuert wird. An der ausgeschnittenen Front- und Rückseite ist eine Polypropylen Folie geklebt.  
 
-![Bild](/pic/LED-Lampe.png)
+![Bild](/pic/LED_Lampe.png)
 
 
 
