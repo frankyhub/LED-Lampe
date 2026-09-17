@@ -39,11 +39,16 @@ Diese Anleitung beschreibt den Aufbau einer LED-Lampe. Das Gehäuse wird aus 3mm
 
 ## Aufbau
 
+### Grundplatte mit LED-Stripe
+
 ![Bild](/pic/LED-Stripe.png)
+
+### Frontseite Innenansicht
 
 ![Bild](/pic/Front_innen.png)
 
 
+### Innenansicht
 
 ![Bild](/pic/LED_Lampe_innen.png)
 
