@@ -33,6 +33,7 @@ Diese Anleitung beschreibt den Aufbau einer LED-Lampe. Das Gehäuse wird aus 3mm
 | 1         | Netzteil 24V    | 
 |            | LED-Streifen, Dimmer, Netzteil [amazon](https://www.amazon.de/Lepro-Warmwei%C3%9F-dimmbar-selbstklebend-Netzteil/dp/B07SR8YBT6?pd_rd_w=Aj5Pc&content-id=amzn1.sym.0eeac566-3009-4bcb-9994-131bae3a4ff4&pf_rd_p=0eeac566-3009-4bcb-9994-131bae3a4ff4&pf_rd_r=PY8YH6FMZB4SJEGHVFFW&pd_rd_wg=5aPTZ&pd_rd_r=b8362028-a73f-4d27-9a0b-4d8ab5731f6a&pd_rd_i=B07SR8YBT6&ref_=pd_bap_d_grid_rp_0_1_ec_nped_pr_i&th=1)|
 | 1         | Holzkleber  | 
+| 2         | Kabelbinder  | 
 | 1         | optional Nussbaum Farbe, Pinsel   | 
 | -------- | -------- |  
 
