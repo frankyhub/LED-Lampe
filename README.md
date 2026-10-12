@@ -8,15 +8,14 @@
 <a href="https://github.com/frankyhub/LED-Lampe/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/LED-Lampe)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/LED-Lampe)|<a href="https://github.com/frankyhub/LED-Lampe/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/LED-Lampe)|<a href="https://github.com/frankyhub/LED-Lampe/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/LED-Lampe)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%20122-blue)|
 |![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/LED-Lampe)| <a href="https://github.com/frankyhub/LED-Lampe/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/LED-Lampe/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 
-</div>  
-
-## Story
-Diese Anleitung beschreibt den Aufbau einer LED-Lampe. Das Gehäuse wird aus 3mm Sperrholz gelasert. Im inneren befindet sich ein 50cm langer LED-Streifen der mit einem LED-Dimmer angesteuert wird. An der ausgeschnittenen Front- und Rückseite befindet sich eine Polypropylen Folie.  
-
 <img src="pic/LED_Lampe.png" width="500"> 
 <br> <br>
 
 
+</div>  
+
+## Story
+Diese Anleitung beschreibt den Aufbau einer LED-Lampe. Das Gehäuse wird aus 3mm Sperrholz gelasert. Im inneren befindet sich ein 50cm langer LED-Streifen der mit einem LED-Dimmer angesteuert wird. An der ausgeschnittenen Front- und Rückseite befindet sich eine Polypropylen Folie.  
 
 ## Hardware
 
