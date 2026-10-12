@@ -5,20 +5,16 @@
 |[:skull:ISSUE](https://github.com/frankyhub/LED-Lampe/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/LED-Lampe/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/LED-Lampe/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%20122-blue)|<a href="https://github.com/frankyhub/LED-Lampe/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/LED-Lampe)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/LED-Lampe)|<a href="https://github.com/frankyhub/LED-Lampe/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/LED-Lampe)|<a href="https://github.com/frankyhub/LED-Lampe/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/LED-Lampe)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/LED-Lampe)| <a href="https://github.com/frankyhub/LED-Lampe/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/LED-Lampe/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/LED-Lampe/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/LED-Lampe)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/LED-Lampe)|<a href="https://github.com/frankyhub/LED-Lampe/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/LED-Lampe)|<a href="https://github.com/frankyhub/LED-Lampe/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/LED-Lampe)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%20122-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/LED-Lampe)| <a href="https://github.com/frankyhub/LED-Lampe/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/LED-Lampe/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 
-
-
-
-
----
-
+</div>  
 
 ## Story
 Diese Anleitung beschreibt den Aufbau einer LED-Lampe. Das Gehäuse wird aus 3mm Sperrholz gelasert. Im inneren befindet sich ein 50cm langer LED-Streifen der mit einem LED-Dimmer angesteuert wird. An der ausgeschnittenen Front- und Rückseite befindet sich eine Polypropylen Folie.  
 
-![Bild](/pic/LED_Lampe.png)
+<img src="pic/LED_Lampe.png" width="500"> 
+<br> <br>
 
 
 
@@ -41,20 +37,24 @@ Diese Anleitung beschreibt den Aufbau einer LED-Lampe. Das Gehäuse wird aus 3mm
 
 ### xtool Lasercutter Datei
 
-![Bild](/pic/xtool.png)
+<img src="pic/xtool.png" width="500"> 
+<br> <br>
 
 ### Grundplatte mit LED-Stripe
 
-![Bild](/pic/LED-Stripe.png)
+<img src="pic/LED-Stripe.png" width="500"> 
+<br> <br>
 
 ### Frontseite Innenansicht
 
-![Bild](/pic/Front_innen.png)
+<img src="pic/Front_innen.png" width="500"> 
+<br> <br>
 
 
 ### Innenansicht
 
-![Bild](/pic/LED_Lampe_innen.png)
+<img src="pic/LED_Lampe_innen.png" width="500"> 
+<br> <br>
 
 ---
 
